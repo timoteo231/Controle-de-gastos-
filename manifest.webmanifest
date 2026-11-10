@@ -1,0 +1,9 @@
+{
+  "name": "Controle de Compras",
+  "short_name": "Compras",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10110f",
+  "theme_color": "#10110f",
+  "description": "Controle de compras e notas fiscais"
+}
